@@ -41,8 +41,6 @@ Test cases include one footprint, mixed prefixes, an already organized selection
 - `SimpleRenamer/simple_plugin.py`: implementation and ActionPlugin registration.
 - `SimpleRenamer/__init__.py`: package entry point.
 - `DESIGN.md`: architecture and design decisions.
-- `SUBMISSION_PROPOSAL.md`: proposal text for approval email.
-- `EMAIL_DRAFT.md`: ready-to-edit submission email templates.
 
 ## Limitations and next steps
 
